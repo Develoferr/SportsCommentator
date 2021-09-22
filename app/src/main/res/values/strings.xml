@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BasketballScore</string>
+    <string name="local_team">Local Team</string>
+    <string name="visitor_team">Visitor Team</string>
+    <string name="zero">0</string>
+    <string name="subtract1">-1</string>
+    <string name="sum1">+1</string>
+    <string name="sum2">+2</string>
+    <string name="sum3">+3</string>
+    <string name="local_visitor">Local Team - Visitor Team</string>
+    <string name="zero_zero">0 - 0</string>
+</resources>
